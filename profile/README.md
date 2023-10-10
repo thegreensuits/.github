@@ -1,4 +1,4 @@
-<img src="../assets/banners/banner.png" alt="Supporters de l'équipe e-sport GentleMates M8" style="width: 100%; object-fit: cover; height: 250px; border-radius: 8px;" />
+<img src="https://github.com/thegreensuits/.github/blob/main/assets/banners/banner.png" alt="Supporters de l'équipe e-sport GentleMates M8" style="width: 100%; object-fit: cover; height: 250px; border-radius: 8px; -o-object-fit: cover;" />
 
 # The Green Suits
 
